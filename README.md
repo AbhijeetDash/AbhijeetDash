@@ -33,7 +33,7 @@ Open-source CLI that drops AI autocomplete right into your coding workflow.
  
 
 <p align="start">
-  <a href="https://music.youtube.com/channel/UCw6ZZmT7ojmDU6WzUWCx2IQ">
+  <a href="https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA?si=sYS80u5qVsNjHNY8">
     <img src="./assets/MusicTile.png" alt="Listen on YT Music" />
   </a>
 </p>
