@@ -1,57 +1,22 @@
-<!-- Banner -->
-<p align="start">
-  <img src="./assets/aesthetic-anime-character-gaming.jpg" alt="Welcome Banner" width="100%" />
-</p>
+# Abhijeet Dash
 
-# Hi, I'm Abhijeet 👋  
+Software engineer — mobile & full-stack. I run **Overide Labs**, an independent studio shipping client platforms, consumer apps, and open-source developer tooling.
 
-I build **developer-first tools** that make documenting, coding, and scaling products easier. Currently hacking on 🚀 **Docable** & 🛠 **Overide**.  
+**Currently:** Mobile engineer for [FeedXL](https://feedxl.com) — owning feature development, releases, and production stability for their Flutter app (iOS + Android). Previously led a 3-engineer team on ADDA's flagship app (27K+ DAU across 30+ residential societies).
 
+## Shipped
 
-## 🌟 Featured Projects  
+| Project | What it is | Status |
+|---|---|---|
+| [OverIDE](https://github.com/oi-overide/oi) | AI code-generation CLI for non-LSP editors (MATLAB, Arduino) — TypeScript, OpenAI / DeepSeek / Groq integrations | 190+ ⭐ · [live on npm](https://www.npmjs.com/package/overide) |
+| [Hyperslips](https://play.google.com/store/apps/details?id=com.hyperslips.app) | AI expense tracker — multilingual voice logging, UPI-screenshot extraction, bill splitting | Live on App Store + Play Store |
+| [Eaten](https://play.google.com/store/apps/details?id=com.eaten.app) | AI cooking companion — extracts structured recipes from cooking videos & blogs, voice-guided Cook Mode | Live on Play Store |
+| [Mostly Events](https://play.google.com/store/apps/details?id=com.app.mostly_event) | Hiring platform for event-industry professionals (client work) | Live on Play Store |
 
-### 📖 Docable – One-stop documentation for dev teams  
-<p align="start">
-  <a href="https://github.com/docable-ai">
-    <img src="./assets/docable.gif" alt="Docable Preview" width="100%" />
-  </a>
-</p>  
-Making documentation effortless by bringing together Notion, Draw.io, Google Docs, Slides, Jira, and Confluence — all in one place.  
+## Stack
 
-### ⚡ Overide – AI autocomplete for any IDE  
-<p align="start">
-  <a href="https://github.com/oi-overide">
-    <img src="./assets/overide.png" alt="Overide CLI Demo" width="100%" />
-  </a>
-</p>  
-Open-source CLI that drops AI autocomplete right into your coding workflow.  
+Flutter · Dart · TypeScript · Node.js · GraphQL · GCP (Cloud Run, Cloud Build) · Firebase · Docker · GitHub Actions
 
-## 🔥 About Me
-💻 Software developer working on **SaaS + open-source** projects  
-🧠 Loves working with **Flutter, Electron & JS**  
-🌏 Based in India, building products for the world
- 
+## Elsewhere
 
-<p align="start">
-  <a href="https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA?si=sYS80u5qVsNjHNY8">
-    <img src="./assets/MusicTile.png" alt="Listen on YT Music" />
-  </a>
-</p>
-
-
----
-
-### GitHub Stats
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetdash&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Abhijeet's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetdash&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
----
-
-### 📬 Let’s Connect
-<p align="start">
-  <a href="https://linkedin.com/in/dash-abhijeet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/abhijeetdash_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="mailto:abhijeetdash1999@gmail.com"><img src="https://img.shields.io/badge/Email-abhijeetdash1999@gmail.com-red" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/dash-abhijeet/) · [Medium](https://medium.com/@abhijeetdash1999) · abhijeetdash1999@gmail.com
